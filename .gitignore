@@ -1,0 +1,59 @@
+# ============================================
+#  shield_u575 : KiCad + STM32CubeIDE
+# ============================================
+
+# ---------- KiCad ----------
+# Sauvegardes et fichiers temporaires
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+_autosave-*
+\#auto_saved_files#
+~*.lck
+*.lck
+fp-info-cache
+
+# Préférences locales (fenêtres, couches visibles…)
+*.kicad_prl
+
+# Sorties générées (à régénérer, ou à publier dans les Releases)
+# Retire ces lignes si tu veux versionner les Gerbers / BOM
+gerbers/
+*.gbr
+*.drl
+*.gbrjob
+*.zip
+*-drc.rpt
+*-erc.rpt
+*.rpt
+
+# ---------- STM32CubeIDE / Eclipse ----------
+Debug/
+Release/
+.metadata/
+.settings/
+*.launch
+RemoteSystemsTempFiles/
+
+# Binaires et objets de compilation
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.srec
+
+# ---------- Système / éditeurs ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
