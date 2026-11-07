@@ -57,3 +57,9 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+.history/
+*.lck
+*.bak
+*.kicad_prl
+fp-info-cache
+*-backups/
