@@ -89,6 +89,18 @@
         [
           "courtyards_overlap|160905000|72165140|62827e72-8f6b-4d77-afe6-f4c77f8a6eff|6bbee99c-ba6d-4e2a-b612-9805c4a18a7e",
           "position imposée par la Nucleo"
+        ],
+        [
+          "starved_thermal|111638679|93841319|349818d3-e4b9-4f78-9c64-c6b97697f697|a1288792-a3b0-4b01-a7fa-207a3a73f12c|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|111638681|97918681|349818d3-e4b9-4f78-9c64-c6b97697f697|06180093-eefd-45c7-8937-47d37f18b519|F.Cu",
+          "PTH, reliée par l’autre face"
+        ],
+        [
+          "starved_thermal|112641319|118238679|a1191dc2-b2c9-4743-a80c-c1a60d101623|31fa4830-c616-479e-b4f1-80da341a6576|B.Cu",
+          "PTH, reliée par l’autre face"
         ]
       ],
       "meta": {

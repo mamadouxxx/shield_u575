@@ -37,5 +37,3 @@ Schéma : [schema.pdf](schema.pdf)
 | Boutons | PB6, PD15 |
 
 Le circuit imprimé fait 2 couches et mesure 54 × 92 mm. Le routage est en cours.
-
-C'est mon premier projet d'électronique.
