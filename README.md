@@ -39,3 +39,7 @@ Schéma : [schema.pdf](schema.pdf)
 Le circuit imprimé fait 2 couches et mesure 54 × 92 mm. Le routage est en cours.
 
 ![Gerber](images/gerber.png)
+
+## Licence
+
+CERN-OHL-P v2, voir [LICENSE](LICENSE).
