@@ -96,11 +96,11 @@
 		(filling no)
 		(aux_axis_origin 101.5 113)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_55555550)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_02000021)
+			(layerselection 0x00000000_00000000_55555555_575575ff)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
 			(dashed_line_dash_ratio 12)
@@ -112,7 +112,7 @@
 			(pdf_front_fp_property_popups yes)
 			(pdf_back_fp_property_popups yes)
 			(pdf_metadata yes)
-			(pdf_single_document yes)
+			(pdf_single_document no)
 			(dxfpolygonmode yes)
 			(dxfimperialunits yes)
 			(dxfusepcbnewfont yes)
@@ -124,12 +124,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
-			(outputformat 4)
+			(subtractmaskfromsilk yes)
+			(outputformat 1)
 			(mirror no)
-			(drillshape 2)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../gerber/")
 		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
@@ -150,7 +150,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3F-1000"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "9664885e-abb5-4ddc-9a3d-c8f912e9d93c")
@@ -505,7 +505,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 0 4.92 90)
 			(layer "F.Fab")
 			(uuid "3394bc3d-efed-4c9c-b2b4-b2e484436386")
@@ -905,7 +905,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 0 4.92 90)
 			(layer "F.Fab")
 			(uuid "6755c6fa-ab3a-4394-a748-b09890e8e652")
@@ -2558,7 +2558,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 0 4.92 0)
 			(layer "F.Fab")
 			(uuid "0ff009be-ca04-462c-be25-d3cb3fea4b7d")
@@ -5163,7 +5163,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3F-1000"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "19daf758-4739-4f79-9889-6a2e803bdadf")
@@ -5677,7 +5677,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "9bd43662-12e3-433a-b00e-e4a79bdc4bca")
@@ -6928,7 +6928,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS22810DBV"
+		(property "Value" "TPS22918DBVR"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "dd7c1d8f-e473-4095-995e-50e2a4790410")
@@ -7291,7 +7291,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 0 4.92 0)
 			(layer "F.Fab")
 			(uuid "c08ccba5-14ff-4f67-9d5e-8a484425fe55")

@@ -1,11 +1,12 @@
 # Shield NUCLEO-U575ZI-Q
 
 ![Shield](images/shield_3d.png)
+![Gerber](images/gerber.png)
 
 Shield fait sous KiCad 10 pour une carte NUCLEO-U575ZI-Q. Il se branche sur les connecteurs Zio de la Nucleo.
 
 Il regroupe :
-- un capteur SCD30 (CO₂, humidité, température), qu'on peut couper avec un TPS22810 pour économiser de l'énergie ;
+- un capteur SCD30 (CO₂, humidité, température), qu'on peut couper avec un TPS22918 pour économiser de l'énergie ;
 - un petit écran OLED 0,96" en I2C ;
 - un module radio 433 MHz (CC1101) en SPI ;
 - une photorésistance pour mesurer la lumière ;
@@ -17,7 +18,7 @@ Schéma : [schema.pdf](schema.pdf)
 ## Composants
 
 - Capteur CO₂ Sensirion SCD30
-- Interrupteur de charge TPS22810DBV (SOT-23-6)
+- Interrupteur de charge TPS22918DBVR (SOT-23-6)
 - Écran OLED Winstar WEA012864D (SSD1306)
 - Module radio Ebyte E07-M1101D-SMA (CC1101) + antenne SMA 433 MHz
 - Photorésistance GL5528

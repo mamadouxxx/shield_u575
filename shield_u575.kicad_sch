@@ -10362,7 +10362,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 36.83 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11025,7 +11025,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS22810DBV"
+		(property "Value" "TPS22918DBVR"
 			(at 120.65 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11117,7 +11117,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 36.83 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11911,7 +11911,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 36.83 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12967,7 +12967,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SW-520D"
 			(at 36.83 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13047,7 +13047,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3F-1000"
 			(at 41.91 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13363,7 +13363,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3F-1000"
 			(at 35.56 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13522,7 +13522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 54.61 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
