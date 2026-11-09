@@ -1,7 +1,6 @@
 # Shield NUCLEO-U575ZI-Q
 
 ![Shield](images/shield_3d.png)
-![Gerber](images/gerber.png)
 
 Shield fait sous KiCad 10 pour une carte NUCLEO-U575ZI-Q. Il se branche sur les connecteurs Zio de la Nucleo.
 
@@ -38,3 +37,5 @@ Schéma : [schema.pdf](schema.pdf)
 | Boutons | PB6, PD15 |
 
 Le circuit imprimé fait 2 couches et mesure 54 × 92 mm. Le routage est en cours.
+
+![Gerber](images/gerber.png)
